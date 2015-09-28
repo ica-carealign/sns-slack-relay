@@ -1,0 +1,9 @@
+default:
+
+  # go to Slack Team Settings to find the URL to use here
+  webhookUrl: your/path/here
+
+  avatars: # key: SNS Topic ARN, value: avatar URL
+    "arn:aws:sns:WHEEL": "http://www.clubpenguinwiki.info/static/images/www/thumb/7/78/WheelBot2012.PNG/120px-WheelBot2012.PNG",
+    "arn:aws:sns:SNOW": "http://www.clubpenguinwiki.info/static/images/www/thumb/c/ce/SnowBot2012.PNG/120px-SnowBot2012.PNG",
+    "arn:aws:sns:JET": "http://www.clubpenguinwiki.info/static/images/www/thumb/4/40/JetBot2012.PNG/120px-JetBot2012.PNG"

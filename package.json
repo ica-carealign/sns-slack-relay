@@ -1,0 +1,19 @@
+{
+  "name": "sns-slack-relay",
+  "version": "0.0.0",
+  "description": "A simple AWS Lambda function to relay SNS notification contents to an Incoming Webhook in Slack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:ica-carealign/sns-slack-relay"
+  },
+  "keywords": [
+    "SNS",
+    "Slack"
+  ],
+  "author": "jbatte47",
+  "license": "MIT"
+}
